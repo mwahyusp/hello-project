@@ -1,1 +1,1 @@
-<h2>Hello Project is Template blog iam buid with html and css</h2>
+<h2>Hello Project is Template blog build with HTML and CSS</h2>
